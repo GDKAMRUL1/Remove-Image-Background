@@ -108,6 +108,6 @@ git remote add origin https://github.com/gdkamrul1/Remove-Image-Background.git
 git branch -M main
 git push -u origin main
 5. Visit Your Website
-Add a link to your GitHub repository from kamrulmollah.com for better visibility. Update the README.md file or project description as needed.
+Add a link to your GitHub repository from https://kamrulmollah.com for better visibility. Update the README.md file or project description as needed.
 
 Let me know if you need additional help with deployment or setup!
