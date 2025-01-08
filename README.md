@@ -104,7 +104,7 @@ Create a new GitHub repository at GitHub.
 Link the local repository to GitHub:
 bash
 Copy code
-git remote add origin https://github.com/yourusername/Remove-Image-Background.git
+git remote add origin https://github.com/gdkamrul1/Remove-Image-Background.git
 git branch -M main
 git push -u origin main
 5. Visit Your Website
